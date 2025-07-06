@@ -1,0 +1,5 @@
+Flask==2.2.3
+Werkzeug<2.3.0 # Or specify an exact compatible version like Werkzeug==2.2.3 or Werkzeug==2.3.7
+Flask-Cors==3.0.10
+gunicorn==22.0.0
+google-generativeai==0.4.1
